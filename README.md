@@ -2,6 +2,8 @@
 
 **MediCare Clinic API** is a FastAPI backend project to manage doctors, appointments, and consultations. It demonstrates real-world API development skills including validation, CRUD, filters, search, sorting, and pagination.
 
+> Developed during the **Innomatics Research Labs FastAPI Internship**.
+
 ## Features
 - Manage doctors: add, update, delete, check availability  
 - Manage appointments: schedule, confirm, cancel, complete  
@@ -53,6 +55,5 @@
 
 ## Author
 **Pradnya Kate** – BBA-CA Graduate | MCA Student | FastAPI Intern  
+> Internship done at **Innomatics Research Labs**
 
-## 🔗 GitHub Repository
-[https://github.com/<your-username>/MedicalAppointmentSystem](https://github.com/<your-username>/MedicalAppointmentSystem)
