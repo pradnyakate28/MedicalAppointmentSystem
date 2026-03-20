@@ -54,6 +54,6 @@
 - `GET /appointments/page` – Paginate appointments  
 
 ## Author
-**Pradnya Kate** – BBA-CA Graduate | MCA Student | FastAPI Intern  
+**Pradnya Kate** – BBA-CA Graduate | MCA Student | Data Science and GenAI Intern  
 > Internship done at **Innomatics Research Labs**
 
